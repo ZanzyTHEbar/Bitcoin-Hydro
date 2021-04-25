@@ -1,28 +1,22 @@
-Bitcoin Core integration/staging tree
+Bitcoin Hydro
 =====================================
 
-https://bitcoincore.org
+**WEBSITE FOR COIN**.
 
-For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
-
-Further information about Bitcoin Core is available in the [doc folder](/doc).
-
-What is Bitcoin?
+What is Bitcoin Hydro?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
-software which enables the use of this currency.
+Bitcoin Hydro is a digital currency that enables instant payments to
+anyone, anywhere in the world. Bitcoin Hydro uses peer-to-peer technology to operate
+with a central authority: managing transactions and issuing money are carried
+out collectively by the network.
 
 For more information read the original Bitcoin whitepaper.
 
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Bitcoin Hydro is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
